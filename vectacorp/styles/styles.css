@@ -1,0 +1,19 @@
+.navbar {
+    width:95%;
+    z-index: 5;
+    border-radius: 5px;
+}
+
+.carousel-indicators li {
+    border-radius: 100%;
+    border: 2px solid white;
+    background-color: transparent;
+    width: 10px;
+    height: 10px;
+}
+
+.carousel-indicators li.active { background-color: white }
+
+.nav-item.active{
+    background-color: black;
+}
